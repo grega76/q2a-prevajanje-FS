@@ -1,24 +1,24 @@
 <?php
    /* Some smart comment */
    return array(
-       'active_widgets_explanation'=>'Trenutno aktivni widgets:', 
-       'add_category_button'=>'Dodaj Kategorija', 
-       'add_field_button'=>'Dodaj polje', 
-       'add_link_button'=>'Dodaj povezavo', 
+       'active_widgets_explanation'=>'Trenutno aktivni widgets:', // Active widgets explanation
+       'add_category_button'=>'Dodaj Kategorija', // Add category
+       'add_field_button'=>'Dodaj polje', // Add field
+       'add_link_button'=>'Dodaj povezavo', // Add link button
        'add_link_link'=>'- ^ 1add povezava ^ 2', // - ^1add link^2
-       'add_new_field'=>'Dodaj novo polje', 
-       'add_new_title'=>'Dodaj nov naslov', 
-       'add_page_button'=>'Dodaj stran', 
-       'add_title_button'=>'Dodaj Naslov', 
-       'add_widget_button'=>'Dodaj Widget', 
+       'add_new_field'=>'Dodaj novo polje', // Add_new_field
+       'add_new_title'=>'Dodaj nov naslov', // Add new title
+       'add_page_button'=>'Dodaj stran', // Add page
+       'add_title_button'=>'Dodaj Naslov', // Add title
+       'add_widget_button'=>'Dodaj Widget', // Add_widget
        'add_widget_link'=>'- ^ 1add widget ^ 2', // - ^1add widget^2
-       'admin_title'=>'Uprava center', 
-       'after_footer'=>'Po povezave v nogi', 
-       'after_main_menu'=>'Po zavihki na vrhu', 
+       'admin_title'=>'Uprava center', // Admin title
+       'after_footer'=>'Po povezave v nogi', // After footer
+       'after_main_menu'=>'Po zavihki na vrhu', // After main menu
        'after_x'=>'Po "^"', //After "^"
        'after_x_tab'=>'Po "^" zanka', //After "^" tab
-       'approve_user_popup'=>'Odobri uporabniku', 
-       'approve_users_title'=>'Odobri uporabnikom', 
+       'approve_user_popup'=>'Odobri uporabniku', // approve user popup
+       'approve_users_title'=>'Odobri uporabnikom', // approve users title
        'basic_editor'=>'Urejevalnik Basic', 
        'before_main_menu'=>'Pred zavihki na vrhu', 
        'blobs_directory_error'=>'Imenik ^ opredeljena kot QA_BLOBS_DIRECTORY ne more pisati na spletni strežnik.', //The directory ^ defined as QA_BLOBS_DIRECTORY is not writable by the web server.
