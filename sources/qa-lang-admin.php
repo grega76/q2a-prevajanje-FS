@@ -156,7 +156,7 @@
        'points_defaults_shown'=>'Privzeta vrednost je prikazano spodaj, vendar še ne uporablja:', The default value is shown below, but does not apply to:
        'points_required'=>'Točke se zahteva za sprejem naslov:', //Points required for admission the following address:
        'points_title'=>'Točke', //Points
-       'position'=>'Položaj:', //Position
+       'position'=>'Položaj:', //Position:
        'posting_title'=>Napotitev'', //Posting title
        'profile_fields'=>'Dodatna polja na uporabniških straneh ali prijavnico:', //Additional fields on user pages or registration:
        'q2a_build_date'=>'Build datum:', //Build date:
